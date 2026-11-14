@@ -28,8 +28,8 @@ window.CONTENT = {
     "A day planned entirely by you"
   ],
   "surprise": "A birthday date, planned just for you. ♡ (Replace with your real surprise!)",
-  "synopsis": "Two people. A thousand little moments. One story we never want to end. This birthday edition is dedicated to my favorite co-star.",
-  "scene": "SAMPLE OPENING SCENE: It starts with a hello. Neither of us knows yet that this ordinary moment will become the beginning of our favorite story. Replace this scene with how you really met.",
+  "synopsis": "A love story told in salt air, little adventures, mirror selfies, and the kind of ordinary moments that become everything. Starring my favorite person: you.",
+  "scene": "If I had to explain our story, I would start with these pictures. Not because they tell every part of it, but because they hold so many little things I never want to forget. The way you smile beside me. The little faces we make at the camera. Your hand in mine. Us, finding another moment worth keeping. Looking through them, I keep coming back to the same thought: I love being part of your life. And on your birthday, I hope you can see what I see in these photographs—a beautiful person, so many reasons to smile, and someone I am so glad I get to love.",
   "recap": [
     {
       "title": "Your most played sound?",
@@ -381,6 +381,102 @@ window.CONTENT = {
       "image": "assets/photos/photo-287.jpg",
       "alt": "Baby Cakes seated on a light-colored sofa",
       "symbol": "♡"
+    },
+    {
+      "title": "A whole little world in bloom",
+      "caption": "The flowers are lovely. The birthday girl is lovelier.",
+      "date": "A little glimpse of you · 37",
+      "image": "assets/photos/photo-302.jpg",
+      "alt": "Baby Cakes in a pink dress surrounded by flowers",
+      "symbol": "♡"
+    },
+    {
+      "title": "Sunshine, softly",
+      "caption": "A little warmth, a little smile, a moment worth keeping.",
+      "date": "A little glimpse of you · 38",
+      "image": "assets/photos/photo-308.jpg",
+      "alt": "Baby Cakes seated outside at a table in sunlight",
+      "symbol": "♡"
+    },
+    {
+      "title": "Your favorite kind of moment",
+      "caption": "May there always be room for joy in the little things.",
+      "date": "A little glimpse of you · 39",
+      "image": "assets/photos/photo-336.jpg",
+      "alt": "Baby Cakes seated at a yellow table wearing a purple dress",
+      "symbol": "♡"
+    },
+    {
+      "title": "A little color, a lot of you",
+      "caption": "Every shade of your personality deserves celebrating.",
+      "date": "A little glimpse of you · 40",
+      "image": "assets/photos/photo-342.jpg",
+      "alt": "Baby Cakes posing in a purple patterned dress",
+      "symbol": "♡"
+    },
+    {
+      "title": "That beautiful little smile",
+      "caption": "Here is to all the happiness waiting in your next chapter.",
+      "date": "A little glimpse of you · 41",
+      "image": "assets/photos/photo-368.jpg",
+      "alt": "Close-up portrait of Baby Cakes smiling with her hand against her cheek",
+      "symbol": "♡"
+    },
+    {
+      "title": "A moment to remember",
+      "caption": "You make even a quiet moment feel special.",
+      "date": "A little glimpse of you · 42",
+      "image": "assets/photos/photo-378.jpg",
+      "alt": "Baby Cakes seated outdoors beside greenery",
+      "symbol": "♡"
+    },
+    {
+      "title": "Adventure looks good on you",
+      "caption": "May your dreams keep taking you somewhere wonderful.",
+      "date": "A little glimpse of you · 43",
+      "image": "assets/photos/photo-392.jpg",
+      "alt": "Baby Cakes making a heart with her hands while wearing a life jacket",
+      "symbol": "♡"
+    },
+    {
+      "title": "A little splash of happiness",
+      "caption": "One of those smiles you wish you could bottle.",
+      "date": "A little glimpse of you · 44",
+      "image": "assets/photos/photo-399.jpg",
+      "alt": "Baby Cakes smiling in the water beside a dolphin",
+      "symbol": "♡"
+    },
+    {
+      "title": "Your glow, your way",
+      "caption": "A whole page for the joy of simply being you.",
+      "date": "A little glimpse of you · 45",
+      "image": "assets/photos/photo-407.jpg",
+      "alt": "Baby Cakes smiling at a restaurant table",
+      "symbol": "♡"
+    },
+    {
+      "title": "A birthday kind of bright",
+      "caption": "Celebrating the person you are and all you have ahead.",
+      "date": "A little glimpse of you · 46",
+      "image": "assets/photos/photo-423.jpg",
+      "alt": "Baby Cakes outdoors at night holding birthday number balloons",
+      "symbol": "♡"
+    },
+    {
+      "title": "Flowers for the birthday girl",
+      "caption": "You deserve lovely things, today and every day.",
+      "date": "A little glimpse of you · 47",
+      "image": "assets/photos/photo-443.jpg",
+      "alt": "Baby Cakes holding a bouquet of red roses",
+      "symbol": "♡"
+    },
+    {
+      "title": "An evening worth keeping",
+      "caption": "Here is to beautiful moments and a future full of more.",
+      "date": "A little glimpse of you · 48",
+      "image": "assets/photos/photo-473.jpg",
+      "alt": "Baby Cakes seated in a light-colored outfit beneath warm lights",
+      "symbol": "♡"
     }
   ],
   "reasons": [
@@ -484,5 +580,63 @@ window.CONTENT = {
     "The way you are entirely yourself.",
     "Every little thing I’m still discovering.",
     "Because you’re you. Always, wonderfully you."
+  ],
+  "storyChapters": [
+    {
+      "title": "The little everyday things",
+      "text": "A ride together. A quick selfie. Nothing that needs a grand explanation. Just a little picture of us, and the quiet happiness of having you beside me.",
+      "alt": "Baby Cakes and her partner taking a selfie in a car",
+      "image": "assets/photos/photo-272.jpg",
+      "chapter": "01"
+    },
+    {
+      "title": "A little salt air",
+      "text": "There is something about the pictures of us by the sea—the open sky, the ocean behind us, and your smile right there next to mine. They make me wish I could step back into the photograph for a little while.",
+      "alt": "Baby Cakes and her partner taking a beach selfie",
+      "image": "assets/photos/photo-257.jpg",
+      "chapter": "02"
+    },
+    {
+      "title": "Finding our little adventures",
+      "text": "I love that our pictures have room for green places and days outside. A change of scenery, a moment to stop, and another little piece of the world that has a memory of you in it.",
+      "alt": "Baby Cakes and her partner standing together outdoors among trees",
+      "image": "assets/photos/photo-273.jpg",
+      "chapter": "03"
+    },
+    {
+      "title": "Under all those lights",
+      "text": "The lights make this moment look like a scene from a movie. But the part I keep looking at is us, sitting together. You have a way of making a little evening feel like something I want to remember.",
+      "alt": "Baby Cakes and her partner seated together beneath decorative lights",
+      "image": "assets/photos/photo-161.jpg",
+      "chapter": "04"
+    },
+    {
+      "title": "One more picture of us",
+      "text": "The mirror selfies might be some of my favorite kinds of pictures. A small pause, the two of us in the frame, and one more reminder that sharing the little things with you means so much to me.",
+      "alt": "Baby Cakes and her partner taking a mirror selfie",
+      "image": "assets/photos/photo-343.jpg",
+      "chapter": "05"
+    },
+    {
+      "title": "My favorite part is you",
+      "text": "Different places, different outfits, different days. When I put these photographs beside each other, you are the part that makes every one of them matter to me.",
+      "alt": "Baby Cakes and her partner standing together in front of a green wall",
+      "image": "assets/photos/photo-277.jpg",
+      "chapter": "06"
+    },
+    {
+      "title": "The faces I never want to forget",
+      "text": "I love the pictures that feel completely like us—the close-up selfies, the little expressions, the way we squeeze into the frame. There is so much affection tucked into these small moments.",
+      "alt": "Close-up selfie of Baby Cakes and her partner outdoors at night",
+      "image": "assets/photos/photo-167.jpg",
+      "chapter": "07"
+    },
+    {
+      "title": "And a little more forever",
+      "text": "These photographs are pieces of our story, not the whole of it. I hope there are so many more ahead: more laughter, more little adventures, and more ordinary days that become favorites because you are in them. Happy birthday, Baby Cakes. I am so glad I get to love you.",
+      "alt": "Baby Cakes and her partner taking a selfie outdoors beneath trees",
+      "image": "assets/photos/photo-439.jpg",
+      "chapter": "08"
+    }
   ]
 };
